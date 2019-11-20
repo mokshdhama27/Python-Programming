@@ -1,3 +1,5 @@
+# printing exercize
+
 print("I will now count my chicken :")
 print("hens", 25+30/6)
 print("roosters", 100-25*3%4)
